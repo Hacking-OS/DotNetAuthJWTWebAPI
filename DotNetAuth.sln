@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetAuth", "DotNetAuth\DotNetAuth.csproj", "{30A0C412-8975-4174-8D75-AB2A6C8EA899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A0C412-8975-4174-8D75-AB2A6C8EA899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A0C412-8975-4174-8D75-AB2A6C8EA899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A0C412-8975-4174-8D75-AB2A6C8EA899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A0C412-8975-4174-8D75-AB2A6C8EA899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C74CC2-CDD1-43CE-96CC-A387C0908928}
+	EndGlobalSection
+EndGlobal
